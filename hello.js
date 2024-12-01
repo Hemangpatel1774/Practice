@@ -1,1 +1,1 @@
-console.log('File: hello.js', 'hemu/m');
+console.log('File: hello.js');
