@@ -1,1 +1,1 @@
-console.log('File: hello.js sfdss');
+console.log('File: hello.js admin');
